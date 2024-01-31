@@ -1,0 +1,17 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a node Server anh iChat application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "Santosh Saroj",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {}
+}

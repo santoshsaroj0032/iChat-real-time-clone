@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "i": "^0.3.7",
+    "module": "^1.2.5",
+    "node": "^20.6.0",
+    "node_module": "^0.0.0",
+    "nodemon": "^3.0.1"
+  },
+  "name": "chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
